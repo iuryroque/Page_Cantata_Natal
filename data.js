@@ -37,10 +37,10 @@ export default [
     file: "04 - PB Não há lugar.mp3",
   },
   {
-    title: "05 - PB Que Rei é este",
+    title: "05 - PB Que Rei é este (sem narração)",
     artist: "Nome do cantor",
     cover: "Arte.jpeg",
-    file: "05 - PB Que Rei é este.mp3",
+    file: "05 - PB Que Rei é este (sem narração).mp3",
   },
   {
     title: "06 - Gloria in Excelsis Deo",
