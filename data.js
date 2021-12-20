@@ -19,16 +19,16 @@ export default [
     file: "02 - PB Oh, vem Emanuel!.mp3",
   },
   {
-    title: "PB Medley de Natal",
-    artist: "Nome do cantor",
-    cover: "Arte.jpeg",
-    file: "07- PB Medley de Natal.mp3",
-  },
-  {
     title: "03- PB Meu Filho e Salvador",
     artist: "Nome do cantor",
     cover: "Arte.jpeg",
     file: "03- PB Meu Filho e Salvador.mp3",
+  },
+  {
+    title: "PB Medley de Natal",
+    artist: "Nome do cantor",
+    cover: "Arte.jpeg",
+    file: "07- PB Medley de Natal.mp3",
   },
   {
     title: "04 - Dramatização Não há lugar",
