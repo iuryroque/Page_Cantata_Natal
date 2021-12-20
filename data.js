@@ -61,6 +61,12 @@ export default [
     file: "07 - PB Por Amor.mp3",
   },
   {
+    title: "Ele é o Rei",
+    artist: "Nome do cantor",
+    cover: "Arte.jpeg",
+    file: "Ele é o Rei.mp3",
+  },
+  {
     title: "08 - PB Filho do Bom Deus",
     artist: "Nome do cantor",
     cover: "Arte.jpeg",
